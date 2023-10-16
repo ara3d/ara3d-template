@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ara3D.Template", "Ara3D.Template.csproj", "{1DEE0C7F-2DBC-4961-9239-76F78662B512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ara3D.Template.Tests", "..\Ara3D.Template.Tests\Ara3D.Template.Tests.csproj", "{A8E337E6-EC05-4C4C-A585-110004511589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DEE0C7F-2DBC-4961-9239-76F78662B512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DEE0C7F-2DBC-4961-9239-76F78662B512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DEE0C7F-2DBC-4961-9239-76F78662B512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DEE0C7F-2DBC-4961-9239-76F78662B512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E337E6-EC05-4C4C-A585-110004511589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E337E6-EC05-4C4C-A585-110004511589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E337E6-EC05-4C4C-A585-110004511589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E337E6-EC05-4C4C-A585-110004511589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF32DA6B-3C97-4833-A59F-E9A730BBCC84}
+	EndGlobalSection
+EndGlobal
