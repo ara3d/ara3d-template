@@ -1,7 +1,6 @@
 # Ara3D.Template
 
 <TODO> Put project summary here. 
-
 ## Ara3D Standard Libraries 
 
 This project is part of the Ara3D standard libraries - a set of modern C# libraries 
@@ -79,3 +78,4 @@ Each template should have
 * Ara3D.Parsing
 * Ara3D.DomainModeling
 * Ara3D.Sandbox
+
