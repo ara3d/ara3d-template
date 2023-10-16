@@ -1,8 +1,8 @@
 # Ara3D.Template
 
-# Project Summary
-
 <TODO> Put project summary here. 
+
+## Ara3D Standard Libraries 
 
 This project is part of the Ara3D standard libraries - a set of modern C# libraries 
 that can be used in part or as a whole to either replace or supplement the C# system 
@@ -36,8 +36,7 @@ You can email us at info@ara3d.com.
 
 # About Us 
 
-We are a software development and consulting company based out of Montreal, Canada.
-We specialize in the development of high performance applications.  
+[Ara 3D Inc.](https://www.linkedin.com/company/ara3d) is a software development and consulting company based out of Montreal, Canada.
 
 # Submitting Issues  
 
